@@ -10,7 +10,7 @@
   "dependencies": {
     "apexcharts": "^3.20.2",
     "axios": "^0.21.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.7.7",
     "core-js": "^3.6.5",
     "css-loader": "^4.3.0",
